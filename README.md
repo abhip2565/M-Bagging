@@ -5,7 +5,7 @@ M-Bagging is a groundbreaking ensemble learning technique that supercharges clas
 ## Table of Contents
 
 - [Features](#-features)
-- [Installation 🛠️](#-installation)
+- [Installation 🛠️](#-installation-)
 - [Usage 🚀](#-usage)
 - [Demo 🎥](#-demo)
 - [Datasets & Results 📊](#-datasets--results)
@@ -44,7 +44,7 @@ python m_bagging.py --dataset path/to/dataset.csv
 
 Experience the power of M-Bagging through our interactive demo! Follow the steps below or watch the [video tutorial](link-to-video):
 
-1. **Clone & Install**: Follow the [Installation](#installation-) section.
+1. **Clone & Install**: Follow the [Installation](#-installation-) section.
 2. **Run M-Bagging**: Use the command from the [Usage](#usage-) section.
 3. **Analyze Results**: Explore the output files and visualizations.
 
