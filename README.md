@@ -5,6 +5,15 @@ M-Bagging is a groundbreaking ensemble learning technique that supercharges clas
 
 ![M-Bagging Architecture](images/architecture.png)
 
+## Table of Contents
+
+- [Features](#-features)
+- [Installation](#️-installation)
+- [Usage](#-usage)
+- [Datasets & Results](#-datasets--results)
+- [Contributing](#-contributing)
+- [License & References](#-license--references)
+
 ## 🌟 Features
 
 - **Modified Bootstrapping**: Special handling of misclassified samples and utilization of out-of-bag samples.
@@ -15,20 +24,18 @@ M-Bagging is a groundbreaking ensemble learning technique that supercharges clas
 ## 🛠️ Installation
 
 Get started with just a few commands:
-
-```bash
+\```bash
 git clone https://github.com/your-username/m-bagging.git
 cd m-bagging
 pip install -r requirements.txt
-```
+\```
 
 ## 🚀 Usage
 
 Launch M-Bagging on your dataset with a single command:
-
-```bash
+\```bash
 python m_bagging.py --dataset path/to/dataset.csv
-```
+\```
 
 [Full Documentation & Options](docs/USAGE.md)
 
