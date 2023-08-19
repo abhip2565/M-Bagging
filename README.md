@@ -5,9 +5,6 @@ M-Bagging is a groundbreaking ensemble learning technique that supercharges clas
 
 ![M-Bagging Architecture](images/architecture.png)
 
-## 🎥 Demo
-
-![M-Bagging Demo](/mnt/data/M-Bagging%20demo.gif)
 
 ## Table of Contents
 
