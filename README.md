@@ -8,9 +8,9 @@ M-Bagging is a groundbreaking ensemble learning technique that supercharges clas
 - [Installation 🛠️](#-installation)
 - [Usage 🚀](#-usage)
 - [Demo 🎥](#-demo)
-- [Datasets & Results 📊](#datasets--results-)
-- [Contributing 🤝](#contributing-)
-- [License & References 📜](#license--references-)
+- [Datasets & Results 📊](#-datasets--results)
+- [Contributing 🤝](#-contributing)
+- [License & References 📜](#-license--references)
 
 ![M-Bagging Architecture](images/architecture.png)
 
