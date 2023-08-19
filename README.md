@@ -34,7 +34,8 @@ pip install -r requirements.txt
 
 ## 🎥 Demo
 
-![M-Bagging Demo](/mnt/data/M-Bagging%20demo.gif)
+![M-Bagging Demo](![M-Bagging demo](https://github.com/abhip2565/M-Bagging/assets/74866247/137da2ed-8f94-4a30-bb2c-6077b8c4f510)
+)
 
 
 ## 🚀 Usage
