@@ -1,16 +1,7 @@
+
 # M-Bagging: Unleash the Power of Modified Bagging 🚀
 
 M-Bagging is a groundbreaking ensemble learning technique that supercharges classification models. By fusing modified bootstrapping with heterogeneous classifiers, it achieves superior prediction accuracy.
-
-## Table of Contents
-
-- [Features 🌟](#-features)
-- [Installation 🛠️](#-installation)
-- [Usage 🚀](#-usage)
-- [Demo 🎥](#-demo)
-- [Datasets & Results 📊](#-datasets--results)
-- [Contributing 🤝](#-contributing)
-- [License & References 📜](#-license--references)
 
 ![M-Bagging Architecture](images/architecture.png)
 
@@ -39,18 +30,7 @@ Launch M-Bagging on your dataset with a single command:
 python m_bagging.py --dataset path/to/dataset.csv
 ```
 
-
-## 🎥 Demo
-
-Experience the power of M-Bagging through our interactive demo! Follow the steps below or watch the [video tutorial](link-to-video):
-
-1. **Clone & Install**: Follow the [Installation](#-installation-) section.
-2. **Run M-Bagging**: Use the command from the [Usage](#usage-) section.
-3. **Analyze Results**: Explore the output files and visualizations.
-
-![Demo Screenshot](images/demo.png)
-
-[Live Demo Link](link-to-live-demo) (if available)
+[Full Documentation & Options](docs/USAGE.md)
 
 ## 📊 Datasets & Results
 
