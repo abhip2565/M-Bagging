@@ -24,18 +24,18 @@ M-Bagging is a groundbreaking ensemble learning technique that supercharges clas
 ## 🛠️ Installation
 
 Get started with just a few commands:
-\```bash
+```bash
 git clone https://github.com/your-username/m-bagging.git
 cd m-bagging
 pip install -r requirements.txt
-\```
+```
 
 ## 🚀 Usage
 
 Launch M-Bagging on your dataset with a single command:
-\```bash
+```bash
 python m_bagging.py --dataset path/to/dataset.csv
-\```
+```
 
 [Full Documentation & Options](docs/USAGE.md)
 
