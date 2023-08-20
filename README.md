@@ -51,7 +51,8 @@ python m_bagging.py --dataset path/to/dataset.csv
 
 Tested on diverse datasets like Diabetes, Liver Disorder, and more, M-Bagging exhibits remarkable results.
 
-![Performance Comparison](https://github.com/abhip2565/M-Bagging/assets/74866247/25ff2afc-dc88-44ec-a4a8-03ab70584584)
+
+<img src="(https://github.com/abhip2565/M-Bagging/assets/74866247/25ff2afc-dc88-44ec-a4a8-03ab70584584" width="500" height="300">
 
 
 [Detailed Results](docs/RESULTS.md) | [Datasets Info](docs/DATASETS.md)
