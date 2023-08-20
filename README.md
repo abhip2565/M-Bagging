@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 
 <p align="center">
-  <img src="https://github.com/abhip2565/M-Bagging/assets/74866247/137da2ed-8f94-4a30-bb2c-6077b8c4f510" width="500" height="300">
+  <img src="https://github.com/abhip2565/M-Bagging/assets/74866247/137da2ed-8f94-4a30-bb2c-6077b8c4f510" width="600" height="400">
 </p>
 
 
