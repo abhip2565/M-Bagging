@@ -13,7 +13,7 @@ M-Bagging is a groundbreaking ensemble learning technique that supercharges clas
 - [Demo](#-demo)
 - [Usage](#-usage)
 - [Datasets & Results](#-datasets--results)
-- [My research Paper](#-my--research--paper)
+- [My research Paper](#-my--research)
 - [Contributing](#-contributing)
 - [License & References](#-license--references)
 
