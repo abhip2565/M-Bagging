@@ -13,6 +13,7 @@ M-Bagging is a groundbreaking ensemble learning technique that supercharges clas
 - [Demo](#-demo)
 - [Usage](#-usage)
 - [Datasets & Results](#-datasets--results)
+- [My research Paper](#-my--research--paper)
 - [Contributing](#-contributing)
 - [License & References](#-license--references)
 
@@ -59,6 +60,17 @@ Tested on diverse datasets like Diabetes, Liver Disorder, and more, M-Bagging ex
 
 
 [Detailed Results](docs/RESULTS.md) | [Datasets Info](docs/DATASETS.md)
+
+## 📖 My Research Paper
+
+**Title**: M-Bagging: A New Modified Bagging Classification Model to Improve Prediction Accuracy
+
+In this research, I present M-Bagging, a novel model that significantly enhances traditional Bagging. The key contributions include special handling of misclassified samples, utilization of out-of-bag samples, various classifiers, and superior prediction accuracy.
+
+For a comprehensive understanding of the methodology and results, please explore the [full research paper](link_to_paper).
+
+![M-Bagging Conceptual Overview](path/to/m_bagging_detailed_diagram.png)
+
 
 ## 🤝 Contributing
 
