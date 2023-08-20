@@ -6,6 +6,7 @@ M-Bagging is a groundbreaking ensemble learning technique that supercharges clas
 
 
 ![image](https://github.com/abhip2565/M-Bagging/assets/74866247/fd0bceac-c0d2-486c-90d2-f0d8ab24625b)
+<br></br>
 ***Why ride a bicycle, when you have a supercar***
 ## Table of Contents
 
