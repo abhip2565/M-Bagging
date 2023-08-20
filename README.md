@@ -69,7 +69,7 @@ Tested on diverse datasets like Diabetes, Liver Disorder, and more, M-Bagging ex
 
 In this research, I present M-Bagging, a novel model that significantly enhances traditional Bagging. The key contributions include special handling of misclassified samples, utilization of out-of-bag samples, various classifiers, and superior prediction accuracy.
 
-For a comprehensive understanding of the methodology and results, please explore the [full research paper](link_to_paper).
+For a comprehensive understanding of the methodology and results, please explore the [full research paper](https://drive.google.com/file/d/100icsAsOAEod5Kz1ZG6s08Rom2Hrcaue/view?usp=drive_link).
 
 
 
