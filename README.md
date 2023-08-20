@@ -3,9 +3,10 @@
 
 M-Bagging is a groundbreaking ensemble learning technique that supercharges classification models. By fusing modified bootstrapping with heterogeneous classifiers, it achieves superior prediction accuracy.
 
-![M-Bagging Architecture](images/architecture.png)
 
 
+![image](https://github.com/abhip2565/M-Bagging/assets/74866247/fd0bceac-c0d2-486c-90d2-f0d8ab24625b)
+***Why ride a bicycle, when you have a supercar***
 ## Table of Contents
 
 - [Features](#-features)
@@ -69,7 +70,7 @@ In this research, I present M-Bagging, a novel model that significantly enhances
 
 For a comprehensive understanding of the methodology and results, please explore the [full research paper](link_to_paper).
 
-![M-Bagging Conceptual Overview](path/to/m_bagging_detailed_diagram.png)
+
 
 
 ## 🤝 Contributing
